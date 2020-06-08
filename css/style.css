@@ -212,4 +212,17 @@ input#title {
         font-size: 20px;
         line-height: 15px;
     }
+
+    label{
+        font-size: 18px;
+        line-height: 27px;
+    }
+    
+    input {
+        font-size: 15px;
+    }
+
+    form{
+        padding: 40px 0px;
+    }
 }
