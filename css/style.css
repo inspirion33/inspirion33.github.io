@@ -197,7 +197,7 @@ input#title {
         padding: 10px;
     }
 
-    .subHeading p>span {
+    .subHeading, p>span {
         display: inline;
     }
 
