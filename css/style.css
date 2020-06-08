@@ -198,7 +198,7 @@ input#title {
     }
 
     .subHeading, p>span {
-        display: inline;
+        display: inline !important;
     }
 
     .btn-hotel{
